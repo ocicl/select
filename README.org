@@ -1,0 +1,9 @@
+* select
+
+Array slices for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/Lisp-Stat/select.git |
+| commit  | df7920f                                     |
+| systems | select                                      |
+|---------+---------------------------------------------|
